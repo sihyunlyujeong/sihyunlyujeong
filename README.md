@@ -1,3 +1,9 @@
+<div align="right">
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSojinLyuJeong&count_bg=%23AAC1FF&title_bg=%239C9B9B&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+  
+</div>
+
 ## 🌏 Hello, World 
   <div align="center">
   
