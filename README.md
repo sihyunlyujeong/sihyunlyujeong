@@ -23,3 +23,8 @@
   **Web** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/> <img src="https://img.shields.io/badge/-Jinja-B41717?style=flat-square&logo=Jinja&logoColor=white"/> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/> <br>
   
 
+<div align="right">
+  
+📮 furilbt@gmail.com
+  
+</div>
