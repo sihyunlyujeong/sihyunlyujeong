@@ -2,7 +2,7 @@
   <div align="center">
   
       I do not want to die until I have faithfully made the most of my talent and cultivated the seed 
-     that was placed in me until the last small twig has grown                      - Kathe Kollwitz
+     that was placed in me until the last small twig has grown.                     - Kathe Kollwitz
   
       좋은 사람들과 재미있는 일을 하며 더 살기 좋은 세상을 만들고자합니다. :)
       I'd like to make a better world to live by doing fun things with my people. ;)
